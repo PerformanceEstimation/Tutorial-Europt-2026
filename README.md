@@ -1,4 +1,4 @@
-# Mini-course on performance estimation problems at Europt 2026
+# Summer school on performance estimation problems at Europt 2026
 
 > [!IMPORTANT]
 > Course website:
